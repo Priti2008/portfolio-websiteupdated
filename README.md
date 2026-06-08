@@ -32,5 +32,4 @@ This is a responsive personal portfolio website created using HTML and CSS. The 
 3. Explore the portfolio website.
 
 ## Live Demo
-
-Add your GitHub Pages link here after deployment.
+https://priti2008.github.io/portfolio-websiteupdated/
